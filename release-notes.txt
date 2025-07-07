@@ -1,4 +1,0 @@
-## Versão 1.2.0 - 07/07/2025
-- Alterado o botão "Salvar" para azul
-- Corrigido bug na tela de login
-- Melhorada a performance da tela de relatórios
