@@ -1,5 +1,6 @@
-# v1.2.0 (07/07/2025)
-- Alterado o botão "Salvar"
+# v1.2.10 (07/07/2025)
+- Alterado o botão "Salvar" 
+- adicionado alguns testes Ghots -***
 - Corrigido erro ao buscar cliente inativo
 - Alterada cor da letra do título da tela principal
 
