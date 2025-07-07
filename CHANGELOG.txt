@@ -1,0 +1,8 @@
+# v1.2.0 (07/07/2025)
+- Alterado o botão "Salvar"
+- Corrigido erro ao buscar cliente inativo
+- Alterada cor da letra do título da tela principal
+
+# v1.1.0 (01/07/2025)
+- Adicionado sistema de envio por WhatsApp
+- Nova tela de relatórios
