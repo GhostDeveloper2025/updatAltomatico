@@ -1,9 +1,9 @@
-# v1.2.20 (07/07/2025)
+# v1.2.21 (07/08/2025)
 - Alterado o botão "Salvar" 
 - adicionado alguns testes Ghots -***
 - Corrigido erro ao buscar cliente inativo
 - Alterada cor da letra do título da tela principal
 
-# v1.1.20 (01/07/2025)
+# v1.1.21 (01/08/2025)
 - Adicionado sistema de envio por WhatsApp
 - Nova tela de relatórios
