@@ -1,6 +1,6 @@
 # v1.2.22 (07/08/2025)
 - Alterado o botão "Salvar" 
-- adicionado alguns testes Ghots testando-kkk
+- adicionado alguns testes Ghots acho que vai
 - Corrigido erro ao buscar cliente inativo
 - Alterada cor da letra do título da tela principal
 
